@@ -1,8 +1,12 @@
 # Historical-Stock
 Extracting and Analysing the data Using web scraping 
 
-Library used;
+## Library used;
+
 Requests
+
 BeautifSoup
+
 Pandas
+
 Plotly
